@@ -21,7 +21,7 @@ Built with **React + FastAPI + Groq AI + Tailwind CSS**
 
 🎥 **Demo Video:** https://youtu.be/zsrY7lDidv8
 
-📄 **API Docs:** https://ai-resume-reviewer-a57t.onrender.com
+📄 **API Docs:** https://ai-resume-reviewer-a57t.onrender.com/docs
 
 </div>
 
@@ -127,7 +127,6 @@ AI-RESUME-REVIEWER
 │   ├── uploads
 │   ├── utils
 │   ├── app.py
-|   ├── models.py
 │   └── requirements.txt
 │
 └── README.md
@@ -140,7 +139,7 @@ AI-RESUME-REVIEWER
 ## Clone the repository
 
 ```bash
-git clone https://github.com/Aswathy486/month-01-sprint-B-projects.git
+git clone https://github.com/Aswathy486/ai-resume-reviewer.git
 ```
 
 ---
@@ -148,7 +147,7 @@ git clone https://github.com/Aswathy486/month-01-sprint-B-projects.git
 ## Navigate to the project
 
 ```bash
-cd month-01-sprint-B-projects/aswathysanthosh/ai-resume-reviewer
+cd ai-resume-reviewer
 ```
 
 ---

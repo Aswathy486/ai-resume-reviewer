@@ -52,16 +52,15 @@ AI Resume Reviewer is a full-stack web application that analyzes resumes using A
 
 ```
 images/
-│── home.png
-│── upload-success.png
-│── ats-analysis.png
-│── ai-feedback.png
-│── cover-letter.png
+│── homepage.png
+│── upload-resume.png
+│── resume-analysis.png
+
 ```
 
 ### Home Page
 
-![Home](images/home.png)
+![Home](images/homepage.png)
 
 ---
 
@@ -69,19 +68,19 @@ images/
 
 Upload a PDF resume and choose your target role.
 
-![Resume Upload](images/upload-success.png)
+![Resume Upload](images/upload-resume.png)
 
 ---
 
 ### ATS Analysis
 
-![ATS](images/ats-analysis.png)
+![ATS](images/resume-analysis.png)
 
 ---
 
-### AI Feedback
+### AI Suggestions
 
-![Feedback](images/ai-feedback.png)
+![Feedback](images/ai-suggestions.png)
 
 ---
 

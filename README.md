@@ -19,7 +19,7 @@ Built with **React + FastAPI + Groq AI + Tailwind CSS**
 
 🌐 **Live App:** https://ai-resume-reviewer-liard.vercel.app/
 
-🎥 **Demo Video:** https://youtu.be/zsrY7lDidv8
+🎥 **Demo Video:** https://youtu.be/l8ye5NNacWk
 
 📄 **API Docs:** https://ai-resume-reviewer-a57t.onrender.com/docs
 

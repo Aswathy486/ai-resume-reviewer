@@ -55,6 +55,9 @@ images/
 │── homepage.png
 │── upload-resume.png
 │── resume-analysis.png
+│── ai-suggestions.png
+│── cover-letter.png
+
 
 ```
 
